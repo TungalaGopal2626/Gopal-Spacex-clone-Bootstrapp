@@ -47,7 +47,7 @@ body {
 .navbar-nav a:hover {
     text-decoration: underline;
     color: white;
-} 
+}
 
 .toggler {
     display: none;
@@ -178,7 +178,7 @@ body {
     }
 
     .spacex-section h2 {
-        font-size: 18px;
+        font-size: 35px;
     }
 
     .btn-custom {
